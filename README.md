@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=fvrrrf&color=4D3A31&style=for-the-badge&label=PROFILE+VIEWS)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=I+love+MTA+Province)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=)](https://git.io/typing-svg)
