@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 -->
 
 ![](https://komarev.com/ghpvc/?username=fvrrrfe&color=#4D3A31)
-![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
-![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
