@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-/header.png
+header.png
 
 ![](https://komarev.com/ghpvc/?username=fvrrrf&color=4d3a31&style=for-the-badge)
