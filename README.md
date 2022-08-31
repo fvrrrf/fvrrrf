@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=fvrrrf&color=4D3A31&style=for-the-badge&label=PROFILE+VIEWS)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=)](https://git.io/typing-svg)
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
