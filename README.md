@@ -3,4 +3,4 @@
   
 <h3 align="center">═══════════════════</a>
   
-<h3 align="center">![](https://komarev.com/ghpvc/?username=fvrrrf&color=4d3a31&style=for-the-badge)</a>
+![](https://komarev.com/ghpvc/?username=fvrrrf&color=4d3a31&style=for-the-badge)
